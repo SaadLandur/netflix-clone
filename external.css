@@ -1,0 +1,160 @@
+/*  css for login page  */
+
+body{
+  background-image: linear-gradient( rgba(0,0,0,0.646),rgba(0,0,0,0.623)),url(login.png);
+  height: 100vh;
+  
+}
+
+
+.logo{
+  width: 100vw;
+  height: 70px;
+  background-color:rgba(0,0,0,0.0);
+display: flex;
+align-items: center;
+}
+
+.logo img{
+  padding-top: 40px;
+  width: 230px;
+
+}
+
+.login-box{
+  width: 430px;
+  height: 630px;
+  background-color: rgba(0,0,0,0.810);
+  border-radius: 05px;
+  padding: 70px;
+}
+
+
+.form-control{
+  box-shadow: none !important;
+  height: 20px;
+
+
+  }
+
+
+.form-label{
+  display: flex;
+  padding-top: 5px;
+  padding-left: 20px;
+  align-items: center; 
+
+}
+
+.form-check-label{
+ color: gray;
+}
+
+.new{
+  color:gray;
+  padding-top: 60px;
+}
+
+.new1{
+  color: gray;
+padding-top: 20px;
+}
+
+.side{
+    color: gray;
+  margin-left: 70px;
+} 
+
+
+/* login page  comments*/
+
+/* 
+css for landing page starts*/
+
+.logo1 {
+  width: 100vw;
+  height: 70px;
+  background-color: rgba(0, 0, 0, 0.0);
+
+  display: flex;
+  align-items: center;
+}
+
+.logo1 img {
+  padding-top: 40px;
+  width: 230px;
+
+}
+.button{
+  display: flex;
+  justify-content: end;
+  padding-right: 70px;
+  position: relative;
+  bottom: 40px;
+
+}
+
+.text{
+  color: white;
+  padding-left: 70px;
+  padding-top: 60px;
+  font-size:60px;
+  font-weight: bold;
+}
+
+.start{
+  color: white;
+padding-left: 140px;
+  padding-top: 20px;
+}
+
+.member{
+  color: white;
+  padding-left: 140px;
+    padding-top: 20px;
+}
+
+#box{
+    background-color: rgba(0, 0, 0, 0.810);
+    width: 430px;
+      height: 50px;
+      margin-left: 140px;
+color: white;
+}
+
+#move{
+    margin-left: 580px;
+    position: relative;
+    bottom: 55px;
+}
+
+#text{
+  margin-left: 150px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+ 
